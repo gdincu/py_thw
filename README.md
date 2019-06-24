@@ -1,4 +1,4 @@
-# py_thw
+# Learn Python the Hard Way
 Exercises from [*Learn Python the Hard Way*](http://learnpythonthehardway.org/) by [Zed. A. Shaw](https://github.com/zedshaw)
 <hr>
 
