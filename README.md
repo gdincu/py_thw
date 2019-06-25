@@ -1,12 +1,12 @@
 # Learn Python the Hard Way
 
-<table border="none">
+<table>
   <tr>
     <td>
-    <img src="https://cdn.iconscout.com/icon/free/png-256/python-14-569257.png"  alt="drawing" width="60vw" height="60vh"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/python-14-569257.png"  alt="drawing" width="100vw" height="100vh"/>
     </td>
     <td>
-      Exercises from <a href="http://learnpythonthehardway.org/"><b>Learn Python the Hard Way</b></a> by [*Zed. A. Shaw*](https://github.com/zedshaw)
+    Exercises from <a href="http://learnpythonthehardway.org/"><b>Learn Python the Hard Way</b></a> by <a href="https://github.com/zedshaw"><b>Zed. A. Shaw</b></a>
     </td>
   </tr>
 </table>
