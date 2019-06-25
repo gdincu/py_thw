@@ -1,11 +1,11 @@
 # Learn Python the Hard Way
 
 <table border="0">
-  <tr>
-    <td>
+  <tr  border="0">
+    <td  border="0">
     <a href="https://www.python.org"><img src="https://cdn.iconscout.com/icon/free/png-256/python-14-569257.png"  alt="drawing" width="100vw" height="100vh"/></a>
     </td>
-    <td>
+    <td  border="0">
     Exercises from <a href="http://learnpythonthehardway.org/"><b>Learn Python the Hard Way</b></a> by <a href="https://github.com/zedshaw"><b>Zed. A. Shaw</b></a>
     </td>
   </tr>
