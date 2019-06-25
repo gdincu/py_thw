@@ -6,7 +6,7 @@
     <img src="https://cdn.iconscout.com/icon/free/png-256/python-14-569257.png"  alt="drawing" width="60vw" height="60vh"/>
     </td>
     <td>
-      Exercises from [<b>Learn Python the Hard Way</b>](http://learnpythonthehardway.org/) by [Zed. A. Shaw](https://github.com/zedshaw)
+      Exercises from <a href="http://learnpythonthehardway.org/"><b>Learn Python the Hard Way</b></a> by [*Zed. A. Shaw*](https://github.com/zedshaw)
     </td>
   </tr>
 </table>
