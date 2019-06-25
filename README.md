@@ -1,9 +1,9 @@
 # Learn Python the Hard Way
 
-<table>
+<table border="0">
   <tr>
     <td>
-    <img src="https://cdn.iconscout.com/icon/free/png-256/python-14-569257.png"  alt="drawing" width="100vw" height="100vh"/>
+    <a href="https://www.python.org"><img src="https://cdn.iconscout.com/icon/free/png-256/python-14-569257.png"  alt="drawing" width="100vw" height="100vh"/></a>
     </td>
     <td>
     Exercises from <a href="http://learnpythonthehardway.org/"><b>Learn Python the Hard Way</b></a> by <a href="https://github.com/zedshaw"><b>Zed. A. Shaw</b></a>
