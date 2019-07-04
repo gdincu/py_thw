@@ -1,4 +1,4 @@
-from sys
+import sys
 filename = sys.argv[1]
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 Read a File
@@ -28,7 +28,7 @@ for i in range(10):
 Create a new file
 'x'	creates a new file. If the file already exists, the operation fails.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-f= open("newFile.txt",x)
+f= open("newFile.txt",'x')
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 Append Data to a File
@@ -46,7 +46,7 @@ print("Opening the file....")
 txt = open(filename,'w+')
 #Truncates the file
 print("Truncating the file")
-target.truncate()
+txt.truncate()
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 Close a file
