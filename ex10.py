@@ -12,3 +12,13 @@ tempName = str(input("Nume: "))
 for i in range(0,len(tempName),1):
   print(tempName[i], sep=' ', end='', flush=True)
 """
+
+#Return a list of the words in a string, using sep as the delimiter string. 
+"""
+def citeste():
+  temp = str(input("Value: "))
+  tempValues = temp.split(sep=" ", maxsplit=-1)
+  for i in tempValues:
+    print(i)
+"""
+
