@@ -1,3 +1,4 @@
+#Ex13
 from sys
 
 print("The script name is: ",sys.argv[0])
