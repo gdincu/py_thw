@@ -169,3 +169,14 @@ def tri_recursion(k):
 print("\n\nRecursion Example Results")
 tri_recursion(6)
 """
+
+#To avoid specifying the exact number of arguments
+def printtwo(*args):
+	arg1 = args[0]
+	arg2 = args[1]
+	"""
+	OR:	arg1, arg2, arg3 = args
+	"""
+	print("arg1: %r, arg2: %r" % (arg1, arg2))
+	
+printtwo("A","B","c")
